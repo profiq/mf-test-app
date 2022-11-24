@@ -1,0 +1,20 @@
+{
+  "name": "mf-test-app",
+  "version": "0.0.1",
+  "description": "Moving Fast Test Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profiq/mf-test-app.git"
+  },
+  "author": "Martin Prokes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/profiq/mf-test-app/issues"
+  },
+  "homepage": "https://github.com/profiq/mf-test-app#readme"
+}
