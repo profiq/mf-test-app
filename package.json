@@ -1,6 +1,6 @@
 {
   "name": "mf-test-app",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Moving Fast Test Application",
   "main": "index.js",
   "scripts": {
