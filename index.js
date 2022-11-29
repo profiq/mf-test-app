@@ -6,7 +6,7 @@ const { PORT = 8080 } = process.env;
 
 const requestListener = function (req, res) {
   res.writeHead(200);
-  res.end(`Hello, World! VERSION=${APP_VERSION}`);
+  res.end(`Hello, MovingFast! VERSION=${APP_VERSION}`);
 }
 
 const server = http.createServer(requestListener);
